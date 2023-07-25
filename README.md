@@ -40,7 +40,8 @@
   <li>JavaScript: Game logic and interactivity.</li>
 </ul>
 
-<h3>Screenshots</h3>
+<h3>Preview</h3>
+![preview](https://github.com/Chusman3057/tic-tac-toe/blob/main/tic-tac-toe.png)
 
 
 <h3>How to Contribute</h3>
