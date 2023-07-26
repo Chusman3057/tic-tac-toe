@@ -2,6 +2,8 @@
 <hr>
 <p>
   This is a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. It allows two players to take turns and compete against each other until one of them wins or the game ends in a draw.
+  <h3>Preview</h3>
+![preview](https://github.com/Chusman3057/tic-tac-toe/blob/main/tic-tac-toe.png)
 </p>
 <h3>How to Play</h3>
 <ol>
@@ -39,10 +41,6 @@
   <li>CSS3: Styling and layout of the game interface.</li>
   <li>JavaScript: Game logic and interactivity.</li>
 </ul>
-
-<h3>Preview</h3>
-![preview](https://github.com/Chusman3057/tic-tac-toe/blob/main/tic-tac-toe.png)
-
 
 <h3>How to Contribute</h3>
 <ul>
